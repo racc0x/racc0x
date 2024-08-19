@@ -9,6 +9,8 @@
 - 👾 Learning **Python**
 - 📝 Some CTF writeups on [https://racc0x.github.io](https://racc0x.github.io)
 
+<img align="right" alt="holoface" width="450" src="https://github.com/racc0x/racc0x/blob/main/htblogo.png?raw=true">
+
 ### Blog posts
 <!-- BLOG-POST-LIST-HACKTHEBOX -->
 - [HackTheBox-Machines Headless Writeup](https://racc0x.github.io/posts/headless/)
