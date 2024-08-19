@@ -1,4 +1,9 @@
-[![MasterHead](https://github.com/racc0x/racc0x/blob/main/terminal.gif?raw=true)](https://racc0x.github.io)
+<p align="center">
+  <a href="https://racc0x.github.io">
+    <img src="https://github.com/racc0x/racc0x/blob/main/terminal.gif?raw=true" alt="MasterHead" />
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm racc0x</h1>
 
 - 👾 Learning **Python**
