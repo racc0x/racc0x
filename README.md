@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/racc0x/3dreii/blob/main/terminal.gif?raw=true)](https://racc0x.github.io)
+[![MasterHead](https://github.com/racc0x/racc0x/blob/main/terminal.gif?raw=true)](https://racc0x.github.io)
 <h1 align="center">Hi 👋, I'm racc0x</h1>
 
 - 👾 Learning **Python**
