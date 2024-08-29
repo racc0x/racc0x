@@ -8,6 +8,7 @@
 
 - 👾 Learning **Python**
 - 📝 Some CTF writeups on [https://racc0x.github.io](https://racc0x.github.io)
+- 📝 Study for ECCPT & OSCP certified
 
 <img align="right" alt="holoface" width="450" src="https://github.com/racc0x/racc0x/blob/main/htblogo.png?raw=true">
 
